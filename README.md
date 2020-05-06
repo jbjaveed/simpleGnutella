@@ -2,14 +2,11 @@
 
 A simple peer to peer network with file searching and sharing.
 
-
-
-
-run:
+## run:
 
 python3 gnutella.py
 
-commands:
+## commands:
 
 open <host:port> - connects to a node on the network
 
